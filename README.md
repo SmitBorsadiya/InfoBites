@@ -6,6 +6,7 @@ InfoBites is a news app which can be used to grab quick daily news bits. If you 
 
 https://github.com/SmitBorsadiya/InfoBites/assets/115487410/4a2dec33-6f73-4b61-add4-88efbb217d14
 
+---
 ## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
